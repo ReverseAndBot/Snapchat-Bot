@@ -1,6 +1,10 @@
 # Snapchat-Bot
 
+-
+
 ## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of August 2024
+
+-
 
 ### Snapchat API Bot (SaaS solution)
 
@@ -39,6 +43,7 @@
 
 - List to be continued soon.
 
+-
 
 ### More information
 
@@ -49,10 +54,8 @@
   - X (Twitter): ReverseAndBot - https://x.com/ReverseAndBot
   - Telegram: ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW
   - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Snapchat-Bot/
-  -
 
 - [^1]: "SaaS" = Software as a Service = https://en.wikipedia.org/wiki/Software_as_a_service
-
 
 ### Screenshots and videos
 
