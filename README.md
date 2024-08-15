@@ -62,9 +62,13 @@
 - How to create a Snapchat bot workflow (video):
 
 
+https://github.com/user-attachments/assets/57d7e2b7-9012-4855-aa21-d6e364a73604
+
 
 - Typical Snapchat bot configuration (campaigns, workflows, jobs, ...):
 
+
+![Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Overview_-_20240815](https://github.com/user-attachments/assets/ac762a4d-ab37-4dd0-b58d-2c7e4949cd45)
 
 
 ### Keywords
