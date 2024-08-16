@@ -47,11 +47,13 @@
 
 ### More information
 
+<!--
 - More information: https://x.com/ReverseAndBot
+-->
 
 - Contact:
 
-  - X (Twitter): ReverseAndBot - https://x.com/ReverseAndBot
+  - X (Twitter): <!-- ReverseAndBot - https://x.com/ReverseAndBot -->
   - Telegram: ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW
   - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Snapchat-Bot/
 
@@ -73,4 +75,4 @@ https://github.com/user-attachments/assets/57d7e2b7-9012-4855-aa21-d6e364a73604
 
 ### Keywords
 
-Snapchat Bot - Snapchat API Bot - Snapchat API - Snapchat API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Snapchat-Att - X-Snapchat-Att-Token - X-Snap-Access-Token
+Snapchat Bot - Snapchat API Bot - Snapchat API - Snapchat API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Snapchat-Att - X-Snapchat-Att-Token - X-Snap-Access-Token - CupidBot - Tinder - Bumble - Badoo
