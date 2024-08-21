@@ -16,10 +16,11 @@
 
 - Complete SaaS [^1] solution:
 
-  - Everything runs in the background on our servers.
+  - Everything runs in the background on our servers 24/7.
   - Setup the workflows once with your favorite browser.
   - No installation required.
   - No poor ADB bridge (no connected devices).
+  - No poor signer being used.
   - No poor browser module.
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
 
@@ -31,14 +32,15 @@
   - Snapchat Score Booster
   - Snapchat ***Friend Adder***
   - Snapchat ***Friend Accept***
-  - Snapchat ***Friend Scraper*** (internally at Snapchat) at predefined countries/regions/cities
+  - Snapchat ***Friend Scraper*** (internally at Snapchat, no external websites) at predefined countries/regions/cities
   - Snapchat Snap Sender incl. scheduler
   - Snapchat Story Poster incl. scheduler
   - Snapchat ***Chat/Messenger*** incl. auto responder
-  - Chat/Messenger supports Spintax and AI
+  - Chat/Messenger supports ChatGPT and/oder internal AI and/or Spintax
+  - Professional options for OnlyFans agencies (OFM)
   - Fake live timestamps ("Upload 1 second ago")
-  - "Upload from memories" removal
-  - "Upload from camera roll" removal
+  - No "Upload from memories" marker
+  - No "Upload from camera roll" marker
   - etc.
 
 - List to be continued soon.
@@ -75,4 +77,4 @@ https://github.com/user-attachments/assets/57d7e2b7-9012-4855-aa21-d6e364a73604
 
 ### Keywords
 
-Snapchat Bot - Snapchat API Bot - Snapchat API - Snapchat API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Snapchat-Att - X-Snapchat-Att-Token - X-Snap-Access-Token - CupidBot - Tinder - Bumble - Badoo
+Snapchat Bot - Snapchat API Bot - Snapchat API - Snapchat API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Snapchat-Att - X-Snapchat-Att-Token - X-Snap-Access-Token - CupidBot - Tinder - Bumble - Badoo - OnlyFans - OFM
