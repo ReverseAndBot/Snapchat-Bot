@@ -20,7 +20,7 @@
   - Setup the workflows once with your favorite browser.
   - No installation required.
   - No poor ADB bridge (no connected devices).
-  - No poor signer being used.
+  - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Snapchat-Bot/blob/main/SnapchatGenerateTokens.cpp
   - No poor browser module.
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
 
@@ -33,7 +33,7 @@
   - Automated Snapchat account verification (by email, SMS optionally)
   - Automated Snapchat verification code handling (by email, SMS optionally)
   - Snapchat ***Friend Adder***
-  - Snapchat "Quick add" **Friend Adder***
+  - Snapchat "Quick add" ***Friend Adder***
   - Snapchat ***Friend Accept***
   - Snapchat ***Friend Scraper*** (internally at Snapchat, no external websites) at predefined countries/regions/cities
   - Snapchat Snap Sender incl. scheduler (once, daily, weekly, monthly etc.)
