@@ -30,20 +30,26 @@
   - Snapchat Account Ager (warm up)
   - Snapchat Bitmoji Uploader
   - Snapchat Score Booster
+  - Automated Snapchat account verification (by email, SMS optionally)
+  - Automated Snapchat verification code handling (by email, SMS optionally)
   - Snapchat ***Friend Adder***
+  - Snapchat "Quick add" **Friend Adder***
   - Snapchat ***Friend Accept***
   - Snapchat ***Friend Scraper*** (internally at Snapchat, no external websites) at predefined countries/regions/cities
-  - Snapchat Snap Sender incl. scheduler
-  - Snapchat Story Poster incl. scheduler
-  - Snapchat ***Chat/Messenger*** incl. auto responder
+  - Snapchat Snap Sender incl. scheduler (once, daily, weekly, monthly etc.)
+  - Snapchat Story Poster incl. scheduler (once, daily, weekly, monthly etc.)
+  - Snapchat ***Chat/Messenger*** incl. auto responder (scheduled messages based on events/keywords)
   - Chat/Messenger supports ChatGPT and/oder internal AI and/or Spintax
   - Professional options for OnlyFans agencies (OFM)
   - Fake live timestamps ("Upload 1 second ago")
   - No "Upload from memories" marker
   - No "Upload from camera roll" marker
+  - Interesting new modules and workflows will follow in September 2024 (please talk to us)
   - etc.
 
 - List to be continued soon.
+
+- Please follow us and star this repository to receive more information on time.
 
 -
 
