@@ -1,3 +1,6 @@
+Last edit: August 22nd, 2024
+
+
 # Snapchat-Bot
 
 -
@@ -39,8 +42,10 @@
   - Snapchat Snap Sender incl. scheduler (once, daily, weekly, monthly etc.)
   - Snapchat Story Poster incl. scheduler (once, daily, weekly, monthly etc.)
   - Snapchat ***Chat/Messenger*** incl. auto responder (scheduled messages based on events/keywords)
-  - Chat/Messenger supports ChatGPT and/oder internal AI and/or Spintax
-  - Professional options for OnlyFans agencies (OFM)
+  - Chat/Messenger supports ChatGPT and/or internal AI and/or Spintax
+  - Snapchat Link Cloaker (hide your links from malware detection tools, scrapers, bots etc.)
+  - Additional professional options for OnlyFans agencies (OFM)
+  - CupidBot replacement (a single setup is enough, everything will run on our servers 24/7 without any interaction by you)
   - Fake live timestamps ("Upload 1 second ago")
   - No "Upload from memories" marker
   - No "Upload from camera roll" marker
@@ -49,7 +54,7 @@
 
 - List to be continued soon.
 
-- Please follow us and star this repository to receive more information on time.
+- Please follow us and "star" this repository to receive more information on time.
 
 -
 
