@@ -1,4 +1,4 @@
-Last edit: August 22nd, 2024
+Last update: August 22nd, 2024
 
 
 # Snapchat-Bot
