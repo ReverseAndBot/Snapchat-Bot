@@ -1,13 +1,33 @@
-Last update: August 22nd, 2024
-
-
 # Snapchat-Bot
 
--
+&nbsp;
 
 ## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of August 2024
 
--
+&nbsp;
+
+> [!NOTE]
+> Last update of this page: August 23rd, 2024
+
+
+> [!TIP]
+> All Snapchat API bot modules have been working without problems ***since January 2024***.
+> 
+> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around September 2nd, 2024
+> 
+> Reasons for the current delays: Pending server hardware delivery, issues at the housing provider.
+
+
+> [!IMPORTANT]
+> Please follow us and "star" this repository to
+> - receive updates
+> - get notified about new modules and features
+> - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
+> - receive discounts for trial accounts
+> 
+> If you don't have a GitHub account, you simply can sign up here with your email address only. The account is free of charge.
+
+&nbsp;
 
 ### Snapchat API Bot (SaaS solution)
 
@@ -31,7 +51,7 @@ Last update: August 22nd, 2024
 
   - Snapchat Account Creator
   - Snapchat Account Ager (warm up)
-  - Snapchat Bitmoji Uploader
+  - Snapchat Bitmoji Uploader (configuration based on presets and custom settings)
   - Snapchat Score Booster
   - Automated Snapchat account verification (by email, SMS optionally)
   - Automated Snapchat verification code handling (by email, SMS optionally)
@@ -56,7 +76,7 @@ Last update: August 22nd, 2024
 
 - Please follow us and "star" this repository to receive more information on time.
 
--
+&nbsp;
 
 ### More information
 
