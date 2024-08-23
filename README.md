@@ -74,7 +74,16 @@
 
 - List to be continued soon.
 
-- Please follow us and "star" this repository to receive more information on time.
+&nbsp;
+
+> [!IMPORTANT]
+> Please follow us and "star" this repository to
+> - receive updates
+> - get notified about new modules and features
+> - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
+> - receive discounts for trial accounts
+> 
+> If you don't have a GitHub account, you simply can sign up here with your email address only. The account is free of charge.
 
 &nbsp;
 
