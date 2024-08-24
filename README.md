@@ -6,6 +6,10 @@
 
 &nbsp;
 
+<img width="1579" alt="Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Create-a-workflow_-_20240824" src="https://github.com/user-attachments/assets/5f420339-baf7-44c8-9eda-2c74f2b03fa5">
+
+&nbsp;
+
 > [!NOTE]
 > Last update of this page: August 23rd, 2024
 
