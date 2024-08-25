@@ -7,11 +7,12 @@
 &nbsp;
 
 ![banner](Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Create-a-workflow_-_20240824.png)
+Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (tasks)
 
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: August 23rd, 2024
+> Last update of this page: August 25th, 2024
 
 
 > [!TIP]
@@ -51,7 +52,7 @@
   - No poor browser module.
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
 
-- Available modules (as of August 2024):
+- A few examples of available modules (as of August 2024):
 
   - Snapchat Account Creator
   - Snapchat Account Ager (warm up)
@@ -67,13 +68,13 @@
   - Snapchat Story Poster incl. scheduler (once, daily, weekly, monthly etc.)
   - Snapchat ***Chat/Messenger*** incl. auto responder (scheduled messages based on events/keywords)
   - Chat/Messenger supports ChatGPT and/or internal AI and/or Spintax
-  - Snapchat Link Cloaker (hide your links from malware detection tools, scrapers, bots etc.)
+  - Snapchat Link Cloaker (hide your links from malware detection tools, scrapers, bots, prevent a sudden Snapchat ban etc.)
   - Additional professional options for OnlyFans agencies (OFM)
-  - CupidBot replacement (a single setup is enough, everything will run on our servers 24/7 without any interaction by you)
+  - CupidBot replacement (a single setup is enough, everything will run on our servers 24/7 using the Snapchat API, without any interaction by you)
   - Fake live timestamps ("Upload 1 second ago")
   - No "Upload from memories" marker
   - No "Upload from camera roll" marker
-  - Interesting new modules and workflows will follow in September 2024 (please talk to us)
+  - Interesting new modules and workflows will follow in September 2024 (please talk to us, please "star" this repository)
   - etc.
 
 - List to be continued soon.
@@ -101,9 +102,11 @@
 
   - X (Twitter): <!-- ReverseAndBot - https://x.com/ReverseAndBot -->
   - Telegram: ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW
-  - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Snapchat-Bot/
+  - GitLab: ReverseAndBot - https://gitlab.com/ReverseAndBot/Snapchat-Bot
+  - RapidAPI: ReverseAndBot - https://rapidapi.com/user/ReverseAndBot
+  - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Snapchat-Bot
 
-- [^1]: "SaaS" = Software as a Service = https://en.wikipedia.org/wiki/Software_as_a_service
+  [^1]: "SaaS" = Software as a Service = https://en.wikipedia.org/wiki/Software_as_a_service
 
 ### Screenshots and videos
 
