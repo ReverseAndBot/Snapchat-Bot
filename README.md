@@ -108,6 +108,8 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
   [^1]: "SaaS" = Software as a Service = https://en.wikipedia.org/wiki/Software_as_a_service
 
+&nbsp;
+
 ### Screenshots and videos
 
 - How to create a Snapchat bot workflow (video):
