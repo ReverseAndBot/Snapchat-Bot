@@ -12,13 +12,13 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: August 25th, 2024
+> Last update of this page: August 31st, 2024
 
 
 > [!TIP]
 > All Snapchat API bot modules have been working without problems ***since January 2024***.
 > 
-> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around September 2nd, 2024
+> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around mid-September 2024
 > 
 > Reasons for the current delays: Pending server hardware delivery, issues at the housing provider.
 
