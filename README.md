@@ -2,7 +2,7 @@
 
 &nbsp;
 
-## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of August 2024
+## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of September 2024
 
 &nbsp;
 
@@ -12,7 +12,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: August 31st, 2024
+> Last update of this page: September 1st, 2024
 
 
 > [!TIP]
@@ -38,7 +38,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 - Based on the hidden Snapchat iOS API.
 
-- Working as of August 2024 (watch a video of the working Snapchat API bot below).
+- Working as of September 2024 (watch a video of the working Snapchat API bot below).
 
 - Compatible with Snapchat 12.x and 13.x.
 
@@ -52,7 +52,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - No poor browser module.
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
 
-- A few examples of available modules (as of August 2024):
+- A few examples of available modules (as of September 2024):
 
   - Snapchat Account Creator
   - Snapchat Account Ager (warm up)
