@@ -45,7 +45,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 - Complete SaaS [^1] solution:
 
   - Everything runs in the background on our servers 24/7.
-  - Advanced "web panel" solutution (one frontend servers, 10+ backend servers).
+  - Advanced "web panel" solution (2 frontend server, 10+ backend servers).
   - Setup the workflows once with your favorite browser.
   - No installation required.
   - No poor ADB bridge (no connected devices).
