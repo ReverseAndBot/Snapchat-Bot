@@ -67,13 +67,15 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - Snapchat ***Friend Scraper*** (internally at Snapchat, no external websites) at predefined countries/regions/cities
   - Automated detection of genders (female, male) of the Snapchat users based on our own custom internal AI
   - Automated detection of locations (countries, regions, cities) of the Snapchat users based on our own custom internal AI
+  - Automated activity detections based on our own custom internal API
   - Snapchat Snap Sender incl. scheduler (once, daily, weekly, monthly etc.)
   - Snapchat Story Poster incl. scheduler (once, daily, weekly, monthly etc.)
   - Snapchat ***Chat/Messenger*** incl. auto responder (scheduled messages based on events/keywords)
-  - Chat/Messenger supports ChatGPT and/or internal AI and/or Spintax
+  - Chat/Messenger supports ChatGPT and/or our own custom internal AI and/or Spintax
   - Snapchat Link Cloaker (hide your links from malware detection tools, scrapers, bots, prevent a sudden Snapchat ban etc.)
   - Additional professional options for OnlyFans agencies (OFM)
   - CupidBot replacement (a single setup is enough, everything will run on our servers 24/7 using the Snapchat API, without any interaction by you)
+  - Full integration into the Tinder API Bot solution (100 % automation): https://github.com/ReverseAndBot/Tinder-Bot
   - Fake live timestamps ("Upload 1 second ago")
   - No "Upload from memories" marker
   - No "Upload from camera roll" marker
