@@ -12,7 +12,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: September 1st, 2024
+> Last update of this page: September 4th, 2024
 
 
 > [!TIP]
@@ -20,11 +20,11 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 > 
 > Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around mid-September 2024
 > 
-> Reasons for the current delays: Pending server hardware delivery, issues at the housing provider.
+> Reasons for the current delays: Pending server hardware delivery, issues at 2 of the housing providers.
 
 
 > [!IMPORTANT]
-> Please follow us and "star" this repository to
+> Please follow us and also "star" and watch this repository to
 > - receive updates
 > - get notified about new modules and features
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
@@ -45,6 +45,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 - Complete SaaS [^1] solution:
 
   - Everything runs in the background on our servers 24/7.
+  - Advanced "web panel" solutution (one frontend servers, 10+ backend servers).
   - Setup the workflows once with your favorite browser.
   - No installation required.
   - No poor ADB bridge (no connected devices).
@@ -64,6 +65,8 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - Snapchat "Quick add" ***Friend Adder***
   - Snapchat ***Friend Accept***
   - Snapchat ***Friend Scraper*** (internally at Snapchat, no external websites) at predefined countries/regions/cities
+  - Automated detection of genders (female, male) of the Snapchat users based on our own custom internal AI
+  - Automated detection of locations (countries, regions, cities) of the Snapchat users based on our own custom internal AI
   - Snapchat Snap Sender incl. scheduler (once, daily, weekly, monthly etc.)
   - Snapchat Story Poster incl. scheduler (once, daily, weekly, monthly etc.)
   - Snapchat ***Chat/Messenger*** incl. auto responder (scheduled messages based on events/keywords)
@@ -74,15 +77,34 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - Fake live timestamps ("Upload 1 second ago")
   - No "Upload from memories" marker
   - No "Upload from camera roll" marker
-  - Interesting new modules and workflows will follow in September 2024 (please talk to us, please "star" this repository)
+  - API service available for professional users
+  - Snapchat Signer service available for selected professional users
+  - ***Interesting new modules and workflows will follow in September 2024 (please talk to us, please "star" this repository)***
   - etc.
-
+ 
 - List to be continued soon.
+
+- Standard modules included in all of our SaaS API bots, like e. g. https://github.com/ReverseAndBot/Tinder-Bot
+
+  - Proxy support (mobile, residential, data center, static, rotating, own setup etc.)
+  - Definition of proxy <-> account relations (e. g. fixed proxy IP address for each account)
+  - Proxy grouping
+  - Proxy monitoring with automated error corrections and proactive notifications
+  - Emulation of "human" activities
+  - Emulation of delays (fully customizable) and breaks
+  - Bulk uploads of images/videos
+  - Bulk uploads of userlists (friends to be added)
+  - Bulk uploads of Snapchat accounts
+  - Bulk uploads of proxy definitions
+  - Bulk uploads of email addresses (to be used by the Snapchat Account Creator)
+  - Advanced management interface for Snapchat accounts, friend lists, proxy servers, email addresses etc.
+  - Modern user interface components based on current UX (User Experience) research studies with real users
+  - "5 Minute Quick Start" incl. useful example data
 
 &nbsp;
 
 > [!IMPORTANT]
-> Please follow us and "star" this repository to
+> Please follow us and also "star" and watch this repository to
 > - receive updates
 > - get notified about new modules and features
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
