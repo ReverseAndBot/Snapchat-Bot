@@ -12,15 +12,15 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: September 4th, 2024
+> Last update of this page: September 13th, 2024
 
 
 > [!TIP]
 > All Snapchat API bot modules have been working without problems ***since January 2024***.
 > 
-> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around mid-September 2024
+> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around end of September 2024
 > 
-> Reasons for the current delays: Pending server hardware delivery, issues at 2 of the housing providers.
+> Reasons for the current delays: Pending server hardware delivery (CPU, NVMe, RAM), issues at 2 of the housing providers.
 
 
 > [!IMPORTANT]
@@ -38,7 +38,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 - Based on the hidden Snapchat iOS API.
 
-- Working as of September 2024 (watch a video of the working Snapchat API bot below).
+- Working as of  2024 (watch a video of the working Snapchat API bot below).
 
 - Compatible with Snapchat 12.x and 13.x.
 
