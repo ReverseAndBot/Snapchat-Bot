@@ -12,18 +12,18 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: October 2nd, 2024
+> Last update of this page: October 10th, 2024
 
 &nbsp;
 
-![Snapchat-Bot-Update-2-20241002](https://github.com/user-attachments/assets/abe0e7ff-e740-4b11-a1ef-0946119d8efb)
+![Snapchat-Bot-Update-20241010](https://github.com/user-attachments/assets/9b71ac9e-7614-4ff1-896e-6576ca6509fd)
 
 &nbsp;
 
 > [!TIP]
 > All Snapchat API bot modules have been working without problems ***since January 2024***.
 > 
-> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around end of October 2024
+> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around end of 2024
 > 
 > ***New: Selected Snapchat bot modules are already available, also the Snapchat account creation service. Please talk to us.*** 
 > 
@@ -89,7 +89,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - API service available for professional users
   - Snapchat Signer service available for selected professional users
   - ***New: Snapchat account creation service available for selected professional users***
-  - ***Interesting new modules and workflows will follow in October 2024 (please talk to us, please "star" this repository)***
+  - ***Interesting new modules and workflows will follow in November 2024 (please talk to us after November 4th, 2024, please "star" this repository)***
   - etc.
  
 - List to be continued soon.
@@ -158,7 +158,7 @@ https://github.com/user-attachments/assets/57d7e2b7-9012-4855-aa21-d6e364a73604
 
 &nbsp;
 
-![Snapchat-Bot-Update-2-20241002](https://github.com/user-attachments/assets/8d7af8b7-2829-4f2e-aabc-4066e5e5ea4b)
+![Snapchat-Bot-Update-20241010](https://github.com/user-attachments/assets/fbc20529-3c28-4941-9130-c62ffd6e85eb)
 
 &nbsp;
 
