@@ -12,7 +12,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: October 10th, 2024
+> Last update of this page: October 28th, 2024
 
 &nbsp;
 
