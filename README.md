@@ -2,7 +2,7 @@
 
 &nbsp;
 
-## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of October 2024
+## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of November 2024
 
 &nbsp;
 
@@ -12,7 +12,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: October 28th, 2024
+> Last update of this page: November 4th, 2024
 
 &nbsp;
 
@@ -45,7 +45,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 - Based on the hidden Snapchat iOS API.
 
-- Working as of October 2024 (watch a video of the working Snapchat API bot below).
+- Working as of November 2024 (watch a video of the working Snapchat API bot below).
 
 - Compatible with Snapchat 12.x and 13.x.
 
@@ -60,9 +60,9 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - No poor browser module.
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
 
-- A few examples of available modules (as of October 2024):
+- A few examples of available modules (as of November 2024):
 
-  - Snapchat Account Creator
+  - Snapchat ***Account Creator*** (available immediately)
   - Snapchat Account Ager (warm up)
   - Snapchat Bitmoji Uploader (configuration based on presets and custom settings)
   - Snapchat Score Booster
@@ -88,7 +88,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - No "Upload from camera roll" marker
   - API service available for professional users
   - Snapchat Signer service available for selected professional users
-  - ***New: Snapchat account creation service available for selected professional users***
+  - ***New: Snapchat account creation service available for selected professional users immediately***
   - ***Interesting new modules and workflows will follow in November 2024 (please talk to us after November 4th, 2024, please "star" this repository)***
   - etc.
  
