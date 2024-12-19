@@ -2,7 +2,7 @@
 
 &nbsp;
 
-## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of November 2024
+## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of December 2024
 
 &nbsp;
 
@@ -12,11 +12,11 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: November 4th, 2024
+> Last update of this page: December 19th, 2024
 
 &nbsp;
 
-![Snapchat-Bot-Update-20241010](https://github.com/user-attachments/assets/9b71ac9e-7614-4ff1-896e-6576ca6509fd)
+![Snapchat-Bot-Update-20241219](https://github.com/user-attachments/assets/e3918592-2a0f-4f30-b2da-cc39b7a323d6)
 
 &nbsp;
 
@@ -45,7 +45,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 - Based on the hidden Snapchat iOS API.
 
-- Working as of November 2024 (watch a video of the working Snapchat API bot below).
+- Working as of December 2024 (watch a video of the working Snapchat API bot below).
 
 - Compatible with Snapchat 12.x and 13.x.
 
@@ -60,7 +60,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - No poor browser module.
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
 
-- A few examples of available modules (as of November 2024):
+- A few examples of available modules (as of December 2024):
 
   - Snapchat ***Account Creator*** (available immediately)
   - Snapchat Account Ager (warm up)
@@ -89,7 +89,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - API service available for professional users
   - Snapchat Signer service available for selected professional users
   - ***New: Snapchat account creation service available for selected professional users immediately***
-  - ***Interesting new modules and workflows will follow in November 2024 (please talk to us after November 4th, 2024, please "star" this repository)***
+  - ***Interesting new modules and workflows will follow in December 2024 (please talk to us after January 7th, 2024, please "star" this repository)***
   - etc.
  
 - List to be continued soon.
@@ -133,7 +133,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 - Contact:
 
   - X (Twitter): <!-- ReverseAndBot - https://x.com/ReverseAndBot -->
-  - Telegram: ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW
+  - Telegram: ***(new Telegram address will follow soon)*** <!-- - https://telegram.me/ReverseEngineeringBHW -->
   - GitLab: ReverseAndBot - https://gitlab.com/ReverseAndBot/Snapchat-Bot
   - RapidAPI: ReverseAndBot - https://rapidapi.com/user/ReverseAndBot
   - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Snapchat-Bot
