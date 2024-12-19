@@ -23,7 +23,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 > [!TIP]
 > All Snapchat API bot modules have been working without problems ***since January 2024***.
 > 
-> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around end of 2024
+> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around January 2025
 > 
 > ***New: Selected Snapchat bot modules are already available, also the Snapchat account creation service. Please talk to us.*** 
 > 
@@ -89,7 +89,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - API service available for professional users
   - Snapchat Signer service available for selected professional users
   - ***New: Snapchat account creation service available for selected professional users immediately***
-  - ***Interesting new modules and workflows will follow in December 2024 (please talk to us after January 7th, 2024, please "star" this repository)***
+  - ***Interesting new modules and workflows will follow in December 2024 (please talk to us after January 7th, 2025, please "star" this repository)***
   - etc.
  
 - List to be continued soon.
