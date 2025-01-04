@@ -2,8 +2,7 @@
 
 &nbsp;
 
-## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of December 2024
-
+## Snapchat API Bot - SaaS solution - Based on the hidden Snapchat iOS API - Working as of January 2025
 &nbsp;
 
 ![banner](Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Create-a-workflow_-_20240824.png)
@@ -12,7 +11,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: December 19th, 2024
+> Last update of this page: January 4th, 2025
 
 &nbsp;
 
@@ -23,11 +22,11 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 > [!TIP]
 > All Snapchat API bot modules have been working without problems ***since January 2024***.
 > 
-> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around January 2025
+> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around January 20th, 2025
 > 
 > ***New: Selected Snapchat bot modules are already available, also the Snapchat account creation service. Please talk to us.*** 
 > 
-> Reasons for the current delays: Pending server hardware delivery (CPU, NVMe, RAM, special components), issues at 2 of the housing providers.
+> Reasons for the current delays: Pending dedicated server hardware delivery (CPU, NVMe, RAM, special components), issues at 2 of the housing providers.
 
 
 > [!IMPORTANT]
@@ -45,9 +44,13 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 - Based on the hidden Snapchat iOS API.
 
-- Working as of December 2024 (watch a video of the working Snapchat API bot below).
+- Working as of January 2025 (watch a video of the working Snapchat API bot below).
 
-- Compatible with Snapchat 12.x and 13.x.
+- Please remember: Most people use poor Snapchat bots based on Android, a very low number uses Snapchat bots based on iOS. Stay safe and use iOS!
+
+- Compatible with Snapchat 12.x and 13.x for ***iOS*** (version 12.96.0 up to version 13.21.0 for iOS)
+
+- Tokens for Snapchat 12.x and 13.x for ***Android*** optionally available on request
 
 - Complete SaaS [^1] solution:
 
@@ -55,12 +58,14 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - Advanced "web panel" solution (2 frontend servers, 10+ backend servers).
   - Setup the workflows once with your favorite browser.
   - No installation required.
+  - No poor Android solution (bots for iOS are safer than bots for Android).
   - No poor ADB bridge (no connected devices).
   - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Snapchat-Bot/blob/main/SnapchatGenerateTokens.cpp
   - No poor browser module.
+  - No Appium or XCUITest solution.
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
 
-- A few examples of available modules (as of December 2024):
+- A few examples of available modules (as of January 2025):
 
   - Snapchat ***Account Creator*** (available immediately)
   - Snapchat Account Ager (warm up)
@@ -89,7 +94,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - API service available for professional users
   - Snapchat Signer service available for selected professional users
   - ***New: Snapchat account creation service available for selected professional users immediately***
-  - ***Interesting new modules and workflows will follow in December 2024 (please talk to us after January 7th, 2025, please "star" this repository)***
+  - ***Interesting new modules and workflows will follow in January 2025 (please talk to us after January 7th, 2025, please "star" this repository)***
   - etc.
  
 - List to be continued soon.
@@ -133,7 +138,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 - Contact:
 
   - X (Twitter): <!-- ReverseAndBot - https://x.com/ReverseAndBot -->
-  - Telegram: ***(new Telegram address will follow soon)*** <!-- - https://telegram.me/ReverseEngineeringBHW -->
+  - Telegram: @ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW (problems with the Telegram account during November/December 2024, it may be replaced and announced here)
   - GitLab: ReverseAndBot - https://gitlab.com/ReverseAndBot/Snapchat-Bot
   - RapidAPI: ReverseAndBot - https://rapidapi.com/user/ReverseAndBot
   - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Snapchat-Bot
