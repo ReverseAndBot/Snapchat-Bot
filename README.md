@@ -15,6 +15,14 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 &nbsp;
 
+New! Support of Snapchat 13.21.0 for iOS (current release)
+
+![Snapchat 13 21 0 for iOS - ReverseAndBot - 20250104](https://github.com/user-attachments/assets/aecf7428-7d53-4854-8591-807c9f72d9b8)
+
+New! Support of Snapchat 13.21.0 for iOS (current release)
+
+&nbsp;
+
 ![Snapchat-Bot-Update-20241219](https://github.com/user-attachments/assets/e3918592-2a0f-4f30-b2da-cc39b7a323d6)
 
 &nbsp;
