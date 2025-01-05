@@ -11,7 +11,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: January 4th, 2025
+> Last update of this page: January 5th, 2025
 
 &nbsp;
 
@@ -72,6 +72,21 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
   - No poor browser module.
   - No Appium or XCUITest solution.
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
+
+- We also offer:
+
+  - ***Custom reverse engineering (e. g. API endpoint detection, jailbreak/emulator/debugger/device detection/... bypassing, SSL unpinning, HTTP/2 and HTTP/3, GRPC, Protobuf, removal of hidden traffic/hidden system calls and much more)***
+  - Bot coding for social media apps, dating apps, other apps based on the hidden private APIs for iOS etc.
+  - Safari for iOS automation with a perfect anti device detection (XCUITest coded in Swift 5/6, no poor insecure instable Appium solution), ...
+  - ***Lists of API endpoints and required signatures, patched iOS apps (with SSL unpinning, jailbreak/device detection/... etc. bypassing, many more)***
+  - Trainings and white papers for you to set up your private bots on your own, with a perfect protection, hidden operation and anti-detection methods 
+  - White label solutions for resellers and agencies available (neutral design, no copyright notices, no URL/contact mention, optionally your corporate design etc.)
+  - Exclusively for you, for you as a future reseller of a white label solution, or to be provided to everyone (cheaper)
+  - Optionally non disclosure agreements (NDA) or other contracts
+  - We can be your independent freelancers, project partners or consulting people
+  - High quality solutions with future updates and support, "Made in West Europe"
+  - We don't offer anything "open source" or for free
+  - Please contact us to discuss your requirements (don't contact us if your budget is lower than US$ 2,000 ;-))
 
 - A few examples of available modules (as of January 2025):
 
@@ -146,10 +161,13 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
 - Contact:
 
   - X (Twitter): <!-- ReverseAndBot - https://x.com/ReverseAndBot -->
-  - Telegram: @ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW (problems with the Telegram account during November/December 2024, it may be replaced and announced here)
-  - GitLab: ReverseAndBot - https://gitlab.com/ReverseAndBot/Snapchat-Bot
+  - Telegram: @ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW (problems with the Telegram account during November/December 2024, the account may be replaced and announced here)
+  - Email: (***We prefer a contact by Telegram than by email***, but the email address is shown at some screenshots of our Snapchat API SaaS bot solution here: https://github.com/ReverseAndBot/Snapchat-Bot)
+  - Telegram: @ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW
+  - GitLab: ReverseAndBot - https://gitlab.com/ReverseAndBot/
   - RapidAPI: ReverseAndBot - https://rapidapi.com/user/ReverseAndBot
-  - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Snapchat-Bot
+  - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Tinder-Bot
+  - ***Existing and new customers have additional ways to receive direct responses.*** 
 
   [^1]: "SaaS" = Software as a Service = https://en.wikipedia.org/wiki/Software_as_a_service
 
