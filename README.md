@@ -11,7 +11,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: January 5th, 2025
+> Last update of this page: January 6th, 2025
 
 &nbsp;
 
@@ -44,7 +44,7 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
 > - receive discounts for trial accounts
 > 
-> If you don't have a GitHub account, you simply can sign up here with your email address only. The account is free of charge.
+> If you don't have a GitHub account, you simply can sign up here with your email address only. The GitHub account is free of charge.
 
 &nbsp;
 
@@ -71,7 +71,8 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
   - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Snapchat-Bot/blob/main/SnapchatGenerateTokens.cpp
   - No poor browser module.
   - No Appium or XCUITest solution.
-  - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
+  - ***No jailbreaks or tweaks used (since no physical devices or emulators are required).***
+  - ***No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.***
 
 - We also offer:
 
@@ -86,8 +87,9 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
   - We can be your independent freelancers, project partners or consulting people
   - High quality solutions with future updates and support, "Made in West Europe"
   - We don't offer anything "open source" or for free
-  - Please contact us to discuss your requirements (don't contact us if your budget is lower than US$ 2,000 ;-))
-
+  - Please contact us to discuss your requirements
+  - More about us (history, skills, other projects): https://github.com/ReverseAndBot/ReverseAndBot
+    
 - A few examples of available modules (as of January 2025):
 
   - Snapchat ***Account Creator*** (available immediately)
@@ -148,7 +150,7 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
 > - receive discounts for trial accounts
 > 
-> If you don't have a GitHub account, you simply can sign up here with your email address only. The account is free of charge.
+> If you don't have a GitHub account, you simply can sign up here with your email address only. The GitHub account is free of charge.
 
 &nbsp;
 
@@ -170,6 +172,10 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
   - ***Existing and new customers have additional ways to receive direct responses.*** 
 
   [^1]: "SaaS" = Software as a Service = https://en.wikipedia.org/wiki/Software_as_a_service
+
+&nbsp;
+
+More about us (history, skills, other projects): https://github.com/ReverseAndBot/ReverseAndBot
 
 &nbsp;
 
@@ -195,4 +201,4 @@ https://github.com/user-attachments/assets/57d7e2b7-9012-4855-aa21-d6e364a73604
 
 ### Keywords
 
-Snapchat Bot - Snapchat API Bot - Snapchat API - Snapchat API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Snapchat-Att - X-Snapchat-Att-Token - X-Snap-Access-Token - X-Snapchat-Client-Auth-Token - CupidBot - Tinder - Bumble - Badoo - OnlyFans - OFM
+Snapchat Bot - Snapchat API Bot - Snapchat API - Snapchat API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Snapchat-Att - X-Snapchat-Att-Token - X-Snap-Access-Token - X-Snapchat-Client-Auth-Token - CupidBot - Tinder - Bumble - Badoo - Grindr - Hinge - OnlyFans - OFM
