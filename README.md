@@ -37,9 +37,13 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 &nbsp;
 
+<!--
+
 ![Snapchat-Bot-Update-20241219](https://github.com/user-attachments/assets/e3918592-2a0f-4f30-b2da-cc39b7a323d6)
 
 &nbsp;
+
+-->
 
 > [!TIP]
 > All Snapchat API bot modules have been working without problems ***since January 2024***.
