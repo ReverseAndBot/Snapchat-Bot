@@ -44,11 +44,11 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 > [!TIP]
 > All Snapchat API bot modules have been working without problems ***since January 2024***.
 > 
-> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around January 21st, 2025
+> Release of the SaaS solution (see below) to the ***next group of selected qualified customers*** (further slots): approx. around January 21st, 2025
 > 
 > ***New: Selected Snapchat bot modules are already available, also the Snapchat account creation service. Please talk to us.*** 
 > 
-> Reasons for the current delays: Pending dedicated server hardware delivery (CPU, NVMe, RAM, special components), issues at 2 of the housing providers.
+> Reasons for the current delays: Pending customized dedicated server hardware delivery (CPU, NVMe, RAM, special components). Even the delivery of customized large Apple Mac computers takes 2 to 4 weeks now.
 
 
 > [!IMPORTANT]
