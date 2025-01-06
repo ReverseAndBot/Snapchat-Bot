@@ -15,11 +15,25 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 &nbsp;
 
-New! Support of Snapchat 13.21.0 for iOS (current release)
+***Current news:***
 
-![Snapchat 13 21 0 for iOS - ReverseAndBot - 20250104](https://github.com/user-attachments/assets/aecf7428-7d53-4854-8591-807c9f72d9b8)
+  - January 6th, 2025, 21:54 (UTC+1)/09:54 PM (UTC+1)
 
-New! Support of Snapchat 13.21.0 for iOS (current release)
+    - New! Support of Snapchat 13.22.0.61 for iOS
+    
+      Only 8 hours after the public release of Snapchat 13.22.0.61 for iOS at the Apple AppStore our team managed to break the SSL pinning, encryption, encoding, token generation etc. and fully support all new features now also for Snapchat 13.22.0.61
+
+    - Coming soon: Public news announcements, email notifications about Snapchat API SaaS bot news (public releases, limited invitation links to subscribe to the Snapchat API SaaS bot, announcements of further available slots, free entries to the next waiting list etc.)
+   
+    - Please remember to "star" and "watch" this GitHub repository to receive update notifications by GitHub.
+
+  - January 4th, 2025, 09:21 (UTC+1)/09:21 AM (UTC+1)
+ 
+    - New! Support of Snapchat 13.21.0.44 for iOS (current release)
+
+    - ![Snapchat 13 21 0 for iOS - ReverseAndBot - 20250104](https://github.com/user-attachments/assets/aecf7428-7d53-4854-8591-807c9f72d9b8)
+
+    - New! Support of Snapchat 13.21.0.44 for iOS (current release)
 
 &nbsp;
 
@@ -30,7 +44,7 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
 > [!TIP]
 > All Snapchat API bot modules have been working without problems ***since January 2024***.
 > 
-> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around January 20th, 2025
+> Release of the SaaS solution (see below) to the ***next group of selected qualified customers***: approx. around January 21st, 2025
 > 
 > ***New: Selected Snapchat bot modules are already available, also the Snapchat account creation service. Please talk to us.*** 
 > 
@@ -56,7 +70,7 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
 
 - Please remember: Most people use poor Snapchat bots based on Android, a very low number uses Snapchat bots based on iOS. Stay safe and use iOS!
 
-- Compatible with Snapchat 12.x and 13.x for ***iOS*** (version 12.96.0 up to version 13.21.0 for iOS)
+- Compatible with Snapchat 12.x and 13.x for ***iOS*** (up to version 13.22.0.61 for iOS)
 
 - Tokens for Snapchat 12.x and 13.x for ***Android*** optionally available on request
 
@@ -119,7 +133,7 @@ New! Support of Snapchat 13.21.0 for iOS (current release)
   - API service available for professional users
   - Snapchat Signer service available for selected professional users
   - ***New: Snapchat account creation service available for selected professional users immediately***
-  - ***Interesting new modules and workflows will follow in January 2025 (please talk to us after January 7th, 2025, please "star" this repository)***
+  - ***Interesting new modules and workflows will follow in January 2025 (please talk to us after January 21st, 2025, please "star" and "watch" this repository)***
   - etc.
  
 - List to be continued soon.
