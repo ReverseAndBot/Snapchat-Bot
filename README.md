@@ -23,6 +23,8 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
     
       Only 8 hours after the public release of Snapchat 13.22.0.61 for iOS at the Apple AppStore our team managed to break the SSL pinning, encryption, encoding, token generation etc. and fully support all new features now also for Snapchat 13.22.0.61
 
+      We didn't use any jailbreaks, debuggers, tweaks or tools like Fr**a, Gh*d* for this iOS milestone again.
+
     - Coming soon: Public news announcements, email notifications about Snapchat API SaaS bot news (public releases, limited invitation links to subscribe to the Snapchat API SaaS bot, announcements of further available slots, free entries to the next waiting list etc.)
    
     - Please remember to "star" and "watch" this GitHub repository to receive update notifications by GitHub.
