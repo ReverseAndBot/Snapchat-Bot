@@ -17,13 +17,31 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 ***Current news:***
 
+  - January 8th, 2025, 10:57 (UTC+1)/10:57 AM (UTC+1)
+
+    - ***Very low entry prices*** starting at low US$ xxx (***lower than US$ 300***, for a limited time and limited number of new customers also ***lower than US$ 200***).
+
+      We are known for ***very low entry prices***. To give everybody a chance to start, even people with a low budget.
+
+      So you will be able to earn the first large bunch of money, ***grow organically in a healthy way*** and ***invest your future profits*** into upgrades, upcoming modules, new features etc.
+
+      ***Don't fall for "unlimited" offers*** based on Android phones/emulators (signers, bridges)! There is nothing "unlimited" in data centers, colocation rooms, servers, switches, gateways, energy supplies, air condition, huge server housing companies.
+
+      Please "star" and "watch" this GitHub repository to be notified on time about the limited sign up links and discounted entry prices.
+
+    - ***No browser emulation***, we use the ***real Snapchat API for iOS***.
+   
+      As written below ***we don't use dirty tricks*** to ***jeopardize your earnings and Snapchat account lifetime***.
+
+      We still don't use browser emulations (web-snapchat-com), cheap rooted Android phones, iOS jailbreaks, Android/iOS software emulators, bridges, signers, tweaks or other bulls__t.
+    
   - January 6th, 2025, 21:54 (UTC+1)/09:54 PM (UTC+1)
 
     - New! Support of Snapchat 13.22.0.61 for iOS
     
       Only 8 hours after the public release of Snapchat 13.22.0.61 for iOS at the Apple AppStore our team managed to break the SSL pinning, encryption, encoding, token generation etc. and fully support all new features now also for Snapchat 13.22.0.61
 
-      We didn't use any jailbreaks, debuggers, tweaks or tools like Fr__a, Gh___a for this iOS milestone again.
+      We didn't use any jailbreaks, debuggers, tweaks or tools like Fr__a, Gh___a or other bulls__t for this iOS milestone again.
 
     - Coming soon: Public news announcements, email notifications about Snapchat API SaaS bot news (public releases, limited invitation links to subscribe to the Snapchat API SaaS bot, announcements of further available slots, free entries to the next waiting list etc.)
    
@@ -52,13 +70,13 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 > 
 > Release of the SaaS solution (see below) to the ***next group of selected qualified customers*** (further slots): approx. around January 21st, 2025
 > 
-> ***New: Selected Snapchat bot modules are already available, also the Snapchat account creation service. Please talk to us.*** 
+> ***New:*** ~~Selected Snapchat bot modules are already available, also the Snapchat account creation service.~~ ***Please talk to us.*** ... "Sorry, sold out for the next 2 to 3 weeks."
 > 
 > Reasons for the current delays: Pending customized dedicated server hardware delivery (CPU, NVMe, RAM, special components). Even the delivery of customized large Apple Mac computers takes 2 to 4 weeks now.
 
 
 > [!IMPORTANT]
-> Please follow us and also "star" and watch this repository to
+> Please follow us and also "star" and "watch" this repository to
 > - receive updates
 > - get notified about new modules and features
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
@@ -164,7 +182,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!IMPORTANT]
-> Please follow us and also "star" and watch this repository to
+> Please follow us and also "star" and "watch" this repository to
 > - receive updates
 > - get notified about new modules and features
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
