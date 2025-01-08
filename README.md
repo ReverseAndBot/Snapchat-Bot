@@ -35,7 +35,9 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
       We still don't use browser emulations (web-snapchat-com), cheap rooted Android phones, iOS jailbreaks, Android/iOS software emulators, bridges, signers, tweaks or other bulls__t.
 
-      Instead we use huge customized decicated hardware worth up to US$ 15,000 per machine.
+      Instead we use own, huge, customized, ***dedicated hardware worth up to US$ 15,000 per machine.***
+
+      Did you ever work with a brand new Apple Mac Pro, fully equipped, with the maximum possible configuration? ;-)
     
   - January 6th, 2025, 21:54 (UTC+1)/09:54 PM (UTC+1)
 
