@@ -25,7 +25,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
       So you will be able to earn the first large bunch of money, ***grow organically in a healthy way*** and ***invest your future profits*** into upgrades, upcoming modules, new features etc.
 
-      ***Don't fall for "unlimited" offers*** based on Android phones/emulators (signers, bridges) or browser emulations (web-snapchat-com)! There is nothing "unlimited" in data centers, colocation rooms, servers, switches, gateways, energy supplies, air condition, huge server housing companies. Sooner or later your provider will be forced to cut you off.
+      ***Don't fall for "unlimited" offers*** based on Android phones/emulators (signers, bridges) or browser emulations (web-snapchat-com)! There is nothing "unlimited" in data centers, colocation rooms, servers, switches, gateways, network uplinks, energy supplies, air condition, huge server housing companies. Sooner or later your provider will be forced to cut you off.
 
       Please "star" and "watch" this GitHub repository to be notified on time about the limited sign up links and discounted entry prices.
 
@@ -34,6 +34,8 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
       As written below ***we don't use dirty tricks*** to ***jeopardize your earnings and Snapchat account lifetime***.
 
       We still don't use browser emulations (web-snapchat-com), cheap rooted Android phones, iOS jailbreaks, Android/iOS software emulators, bridges, signers, tweaks or other bulls__t.
+
+      Instead we use huge customized decicated hardware worth up to US$ 15,000 per machine.
     
   - January 6th, 2025, 21:54 (UTC+1)/09:54 PM (UTC+1)
 
