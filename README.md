@@ -11,11 +11,19 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: January 8th, 2025
+> Last update of this page: January 12th, 2025
 
 &nbsp;
 
 ***Current news:***
+
+  - January 12th, 2025, 18:14 (UTC+1)/06:14 AM (UTC+1)
+
+    - New! Support of Snapchat 13.23.0.34 for iOS (current release)
+
+    - ![image](https://github.com/user-attachments/assets/a0c4a9c8-a4cf-4fdc-aa28-8f85c6508c97)
+
+    - New! Support of Snapchat 13.23.0.34 for iOS (current release)
 
   - January 8th, 2025, 10:57 (UTC+1)/10:57 AM (UTC+1)
 
