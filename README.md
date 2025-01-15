@@ -11,13 +11,31 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: January 12th, 2025
+> Last update of this page: January 15th, 2025
 
 &nbsp;
 
 ***Current news:***
 
-  - January 12th, 2025, 18:14 (UTC+1)/06:14 AM (UTC+1)
+  - January 15th, 2025, 21:55 (UTC+1)/09:55 PM (UTC+1)
+
+    - ***The next chunk of subscription slots*** will be available approx. after January 21st, 2025.
+
+      Not all highly customized dedicated hardware will arrive until then. Even the delivery time of the Apple Mac Pro machines with the highest possible configuration takes 5 to 6 weeks now (as of January 15th).
+
+      And since it's no big secret anymore that we use large GPU stacks to do most parts of the encryption, encoding and signing (instead of connected iPhones), we clearly need these customized hardware parts. The costs are up to US$ 15,000 per machine.
+
+      You can find more information below.
+
+    - ***Snapchat for iOS account creation service*** will be back soon.
+   
+      We will also extend the server capacities to offer further slots of the famous Snapchat for iOS account creation service (established in July 2024) very soon.
+
+    - ***Coming soon!*** We're going to publish a classic email newsletter sign-up link soon at this GitHub repository. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. 
+
+      So please visit this GitHub page daily now to receive the newsletter link. (All incoming entries will be manually reviewed.)
+
+  - January 12th, 2025, 18:14 (UTC+1)/06:14 PM (UTC+1)
 
     - New! Support of Snapchat 13.23.0.34 for iOS (current release)
 
