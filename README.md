@@ -23,7 +23,9 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
    
        Do you need screenshots with proofs, friends?
 
-     - ***To be published here during the next 24 hours*** We're going to publish a classic email newsletter sign-up link during the next 24 hours at this page. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.
+     - ***To be published here during the next 24 hours***
+     
+       We're going to publish a classic email newsletter sign-up link during the next 24 hours at this page. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.
 
      - Current information about a fake campaign:
 
@@ -31,7 +33,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
        None of our team members ever worked as an external consultant, developer, reverse engineer, administrator etc. for any external company regarding Snapchat. Especially not supporting the poor Snapchat for Android variation everybody uses to spam (very high detection risk, high ban risk compared to Snapchat 13.x for iOS, low account lifetime).
 
-       Since he operates his business from Russia and Russia has declared European countries the war almost 3 years ago (February 2025) our lawyers have no chance to start legal actions against him, his false advertising and also his blackmailing strategies. Our lawyers recommended us to take a different route instead. We will follow this advice soon.
+       Since he operates his business from Russia and Russia has declared European countries the war almost 3 years ago (February 2022) our lawyers have no chance to start legal actions against him, his false advertising and also his blackmailing strategies. Our lawyers recommended us to take a different route instead. We will follow this advice soon.
 
      - ***Time for you to look forward*** to the upcoming extension of our famous ***Snapchat of iOS account creation service***!
   
