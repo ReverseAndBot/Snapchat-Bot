@@ -29,7 +29,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
        A small Snapchat bot (for Android only) provider from Russia pretends that members of our team do work/used to work as paid developers for him. That's not true.
 
-       None of our team members ever worked as an external consultant, developer, reverse engineer, administrator etc. for any external company regarding Snapchat. Especially not supporting the poor Snapchat for Android variation everybody uses to spam (ver high detection risk, high ban risk compared to Snapchat 13.x for iOS, low account lifetime).
+       None of our team members ever worked as an external consultant, developer, reverse engineer, administrator etc. for any external company regarding Snapchat. Especially not supporting the poor Snapchat for Android variation everybody uses to spam (very high detection risk, high ban risk compared to Snapchat 13.x for iOS, low account lifetime).
 
        Since he operates his business from Russia and Russia has declared European countries the war almost 3 years ago (February 2025) our lawyers have no chance to start legal actions against him, his false advertising and also his blackmailing strategies. Our lawyers recommended us to take a different route instead. We will follow this advice soon.
 
