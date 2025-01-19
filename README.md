@@ -25,7 +25,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
      - ***To be published here during the next 24 hours***
      
-       We're going to publish a classic email newsletter sign-up link during the next 24 hours at this page. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.
+       We're going to publish a classic email newsletter sign-up link during the next 48 hours at this page. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.
 
      - Current information about a fake campaign:
 
