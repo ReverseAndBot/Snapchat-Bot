@@ -11,11 +11,19 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: January 19th, 2025
+> Last update of this page: January 21st, 2025
 
 &nbsp;
 
 ***Current news:***
+
+  - January 21st, 2025, 08:05 (UTC+1)/08:05 AM (UTC+1)
+
+     - New! Email newsletter sign up
+   
+       It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.
+
+       ![image](https://github.com/user-attachments/assets/ca85d333-1079-4b67-9746-40ca0e11e0e7)
 
   - January 19th, 2025, 06:00 (UTC+1)/06:00 AM (UTC+1)
 
@@ -136,6 +144,10 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 &nbsp;
 
+![image](https://github.com/user-attachments/assets/ca85d333-1079-4b67-9746-40ca0e11e0e7)
+
+&nbsp;
+
 ### Snapchat API Bot (SaaS solution)
 
 - Based on the hidden Snapchat iOS API.
@@ -242,6 +254,10 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 &nbsp;
 
+![image](https://github.com/user-attachments/assets/ca85d333-1079-4b67-9746-40ca0e11e0e7)
+
+&nbsp;
+
 ### More information
 
 <!--
@@ -258,6 +274,8 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
   - RapidAPI: ReverseAndBot - https://rapidapi.com/user/ReverseAndBot
   - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Tinder-Bot
   - ***Existing and new customers have additional ways to receive direct responses.*** 
+
+  ![image](https://github.com/user-attachments/assets/ca85d333-1079-4b67-9746-40ca0e11e0e7)
 
   [^1]: "SaaS" = Software as a Service = https://en.wikipedia.org/wiki/Software_as_a_service
 
