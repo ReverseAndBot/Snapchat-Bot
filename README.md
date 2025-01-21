@@ -19,7 +19,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
   - January 21st, 2025, 08:05 (UTC+1)/08:05 AM (UTC+1)
 
-     - New! Email newsletter sign up
+     - New! Email newsletter sign up (see banner below)
    
        It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.
 
@@ -33,7 +33,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
      - ***To be published here during the next 24 hours***
      
-       We're going to publish a classic email newsletter sign-up link during the next 48 hours at this page. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.
+       Done. ~~We're going to publish a classic email newsletter sign-up link during the next 48 hours at this page. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.~~
 
      - Current information about a fake campaign:
 
@@ -59,7 +59,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
    
       We will also extend the server capacities to offer further slots of the famous Snapchat for iOS account creation service (established in July 2024) very soon.
 
-    - ***Coming soon!*** We're going to publish a classic email newsletter sign-up link soon at this GitHub repository. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. 
+    - Done. ~~***Coming soon!*** We're going to publish a classic email newsletter sign-up link soon at this GitHub repository. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc.~~
 
       So please visit this GitHub page daily now to receive the newsletter link. (All incoming entries will be manually reviewed.)
 
@@ -101,7 +101,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
       We didn't use any jailbreaks, debuggers, tweaks or tools like Fr__a, Gh___a or other bulls__t for this iOS milestone again.
 
-    - Coming soon: Public news announcements, email notifications about Snapchat API SaaS bot news (public releases, limited invitation links to subscribe to the Snapchat API SaaS bot, announcements of further available slots, free entries to the next waiting list etc.)
+    - Done. ~~Coming soon: Public news announcements, email notifications about Snapchat API SaaS bot news (public releases, limited invitation links to subscribe to the Snapchat API SaaS bot, announcements of further available slots, free entries to the next waiting list etc.)~~
    
     - Please remember to "star" and "watch" this GitHub repository to receive update notifications by GitHub.
 
@@ -126,11 +126,11 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 > [!TIP]
 > All Snapchat API bot modules have been working without problems ***since January 2024***.
 > 
-> Release of the SaaS solution (see below) to the ***next group of selected qualified customers*** (further slots): approx. around January 21st, 2025
+> Done. ~~Release of the SaaS solution (see below) to the ***next group of selected qualified customers*** (further slots): approx. around January 21st, 2025~~
 > 
 > ***New:*** ~~Selected Snapchat bot modules are already available, also the Snapchat account creation service.~~ ***Please talk to us.*** ... "Sorry, sold out for the next 2 to 3 weeks."
 > 
-> Reasons for the current delays: Pending customized dedicated server hardware delivery (CPU, NVMe, RAM, special components). Even the delivery of customized large Apple Mac computers takes 2 to 4 weeks now.
+> Done. ~~Reasons for the current delays: Pending customized dedicated server hardware delivery (CPU, NVMe, RAM, special components). Even the delivery of customized large Apple Mac computers takes 2 to 4 weeks now.~~
 
 
 > [!IMPORTANT]
