@@ -33,7 +33,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
         ![image](https://github.com/user-attachments/assets/a5965702-e493-4641-83c7-ee6cbc0066c7)
 
-        Full size image: https://github.com/ReverseAndBot/Snapchat-Bot/blob/main/Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Snapchat-13.25.0.37_-_Registration-Response-_20250123.png
+        Full size image: https://github.com/ReverseAndBot/Snapchat-Bot/blob/main/Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Snapchat-13.25.0.37_-_Registration-Response_-_20250123.png
         
   - January 23rd, 2025, 18:10 (UTC+1)/06:10 PM (UTC+1)
 
