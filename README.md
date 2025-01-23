@@ -27,14 +27,14 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
         ![image](https://github.com/user-attachments/assets/c5703774-cebe-42e4-b3f9-256097199d81)
 
-        Full size image: ![Screenshot - Snapchat API Bot - by GitHub ReverseAndBot - Snapchat 13.25.0.37 - Registration Request](Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Snapchat-13.25.0.37_-_Registration-Request_-_20250123)
-
+        Full size image: https://github.com/ReverseAndBot/Snapchat-Bot/blob/main/Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Snapchat-13.25.0.37_-_Registration-Request_-_20250123.png
+        
       - Registration response (positive result) (HTTP/2.0, GRPC, Protobuf)
 
         ![image](https://github.com/user-attachments/assets/a5965702-e493-4641-83c7-ee6cbc0066c7)
 
-        Full size image: ![Screenshot - Snapchat API Bot - by GitHub ReverseAndBot - Snapchat 13.25.0.37 - Registration Response](Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Snapchat-13.25.0.37_-_Registration-Response_-_20250123)
-
+        Full size image: https://github.com/ReverseAndBot/Snapchat-Bot/blob/main/Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Snapchat-13.25.0.37_-_Registration-Response-_20250123.png
+        
   - January 23rd, 2025, 18:10 (UTC+1)/06:10 PM (UTC+1)
 
     - The next available slots for new customers will be available around Febuary 7th to 14th, 2025.
