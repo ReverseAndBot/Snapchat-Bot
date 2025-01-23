@@ -29,6 +29,8 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
       ![image](https://github.com/user-attachments/assets/ca85d333-1079-4b67-9746-40ca0e11e0e7)
 
+    - If you can't access the newsletter sign up URL above, please disable your proxy, VPN, server, Tor exit node etc. in your browser. The newsletter provider GetResponse checks the traffic quality.
+
     - Again we have to say that ***we can't provide free trainings, mentorings, consultings***. No matter which topic. Please contact us only if you are able to invest at least US$ 2,000 in a training/mentoring/consulting. 
 
   - January 21st, 2025, 08:05 (UTC+1)/08:05 AM (UTC+1)
