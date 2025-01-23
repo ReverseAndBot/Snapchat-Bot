@@ -29,7 +29,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
         Full size image: ![Screenshot - Snapchat API Bot - by GitHub ReverseAndBot - Snapchat 13.25.0.37 - Registration Request](Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Snapchat-13.25.0.37_-_Registration-Request_-_20250123)
 
-      - Registration response (positive result) (HTTP/2.0/, GRPC, Protobuf)
+      - Registration response (positive result) (HTTP/2.0, GRPC, Protobuf)
 
         ![image](https://github.com/user-attachments/assets/a5965702-e493-4641-83c7-ee6cbc0066c7)
 
