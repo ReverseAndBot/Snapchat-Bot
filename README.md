@@ -17,7 +17,25 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
 ***Current news:***
 
-  - January 23rd, 2025, 18:10 (UTC+1)/18:10 PM (UTC+1)
+  - January 23rd, 2025, 23:07 (UTC+1)/11:07 PM (UTC+1)
+
+    - New! Support of ***Snapchat 13.24.0.38 for iOS*** (current release, just released 2 hours ago)
+
+    - Let's show some screenshot of the Snapchat account registration (sign up) including a positive registration result:
+
+      - Registration request (HTTP/2.0, GRPC, Protobuf)
+
+        ![image](https://github.com/user-attachments/assets/c5703774-cebe-42e4-b3f9-256097199d81)
+
+        Full size image: ![Screenshot - Snapchat API Bot - by GitHub ReverseAndBot - Snapchat 13.25.0.37 - Registration Request](Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Snapchat-13.25.0.37_-_Registration-Request_-_20250123)
+
+      - Registration response (positive result) (HTTP/2.0/, GRPC, Protobuf)
+
+        ![image](https://github.com/user-attachments/assets/a5965702-e493-4641-83c7-ee6cbc0066c7)
+
+        Full size image: ![Screenshot - Snapchat API Bot - by GitHub ReverseAndBot - Snapchat 13.25.0.37 - Registration Response](Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Snapchat-13.25.0.37_-_Registration-Response_-_20250123)
+
+  - January 23rd, 2025, 18:10 (UTC+1)/06:10 PM (UTC+1)
 
     - The next available slots for new customers will be available around Febuary 7th to 14th, 2025.
    
