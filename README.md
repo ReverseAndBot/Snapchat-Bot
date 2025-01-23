@@ -11,39 +11,53 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: January 21st, 2025
+> Last update of this page: January 23rd, 2025
 
 &nbsp;
 
 ***Current news:***
 
+  - January 23rd, 2025, 18:10 (UTC+1)/18:10 PM (UTC+1)
+
+    - The next available slots for new customers will be available around Febuary 7th to 14th, 2025.
+   
+      Please sign up at the following newsletter URL to be part of the waiting list:
+
+    - The Snapchat account creation service (Snapchat for iOS 13.24.0.38) will be available earlier.
+    
+      The availability will be announced at out newsletter. Please sign up at the following URL:
+
+      ![image](https://github.com/user-attachments/assets/ca85d333-1079-4b67-9746-40ca0e11e0e7)
+
+    - Again we have to say that ***we can't provide free trainings, mentorings, consultings***. No matter which topic. Please contact us only if you are able to invest at least US$ 2,000 in a training/mentoring/consulting. 
+
   - January 21st, 2025, 08:05 (UTC+1)/08:05 AM (UTC+1)
 
-     - New! Email newsletter sign up (see banner below)
+    - New! Email newsletter sign up (see banner below)
    
-       It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.
+      It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.
 
-       ![image](https://github.com/user-attachments/assets/ca85d333-1079-4b67-9746-40ca0e11e0e7)
+      ![image](https://github.com/user-attachments/assets/ca85d333-1079-4b67-9746-40ca0e11e0e7)
 
   - January 19th, 2025, 06:00 (UTC+1)/06:00 AM (UTC+1)
 
-     - New! Support of ***Snapchat 13.24.0.38 for iOS*** (current release)
+    - New! Support of ***Snapchat 13.24.0.38 for iOS*** (current release)
    
-       Do you need screenshots with proofs, friends?
+      Do you need screenshots with proofs, friends?
 
-     - ***To be published here during the next 24 hours***
+    - ***To be published here during the next 24 hours***
      
-       Done. ~~We're going to publish a classic email newsletter sign-up link during the next 48 hours at this page. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.~~
+      Done. ~~We're going to publish a classic email newsletter sign-up link during the next 48 hours at this page. It's the best way to stay in touch with future customers, to send out Snapchat API bot subscription links, to send out waiting list entry links etc. Independent from GitHub and any volatile messenger app.~~
 
-     - Current information about a fake campaign:
+    - Current information about a fake campaign:
 
-       A small Snapchat bot (for Android only) provider from Russia pretends that members of our team do work/used to work as paid developers for him. That's not true.
+      A small Snapchat bot (for Android only) provider from Russia pretends that members of our team do work/used to work as paid developers for him. That's not true.
 
-       None of our team members ever worked as an external consultant, developer, reverse engineer, administrator etc. for any external company regarding Snapchat. Especially not supporting the poor Snapchat for Android variation everybody uses to spam (very high detection risk, high ban risk compared to Snapchat 13.x for iOS, low account lifetime).
+      None of our team members ever worked as an external consultant, developer, reverse engineer, administrator etc. for any external company regarding Snapchat. Especially not supporting the poor Snapchat for Android variation everybody uses to spam (very high detection risk, high ban risk compared to Snapchat 13.x for iOS, low account lifetime).
 
-       Since he operates his business from Russia and Russia has declared European countries the war almost 3 years ago (February 2022) our lawyers have no chance to start legal actions against him, his false advertising and also his blackmailing strategies. Our lawyers recommended us to take a different route instead. We will follow this advice soon.
+      Since he operates his business from Russia and Russia has declared European countries the war almost 3 years ago (February 2022) our lawyers have no chance to start legal actions against him, his false advertising and also his blackmailing strategies. Our lawyers recommended us to take a different route instead. We will follow this advice soon.
 
-     - ***Time for you to look forward*** to the upcoming extension of our famous ***Snapchat of iOS account creation service***!
+    - ***Time for you to look forward*** to the upcoming extension of our famous ***Snapchat of iOS account creation service***!
   
   - January 15th, 2025, 21:55 (UTC+1)/09:55 PM (UTC+1)
 
