@@ -19,7 +19,7 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 
   - January 23rd, 2025, 23:07 (UTC+1)/11:07 PM (UTC+1)
 
-    - New! Support of ***Snapchat 13.24.0.38 for iOS*** (current release, just released 2 hours ago)
+    - New! Support of ***Snapchat 13.24.0.37 for iOS*** (current release, just released 2 hours ago)
 
     - Let's show some screenshots of the Snapchat account registration (sign up) including a positive registration result:
 
