@@ -11,12 +11,24 @@ Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (t
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: January 23rd, 2025
+> Last update of this page: January 27th, 2025
 
 &nbsp;
 
 ***Current news:***
 
+  - January 27th, 2025, 21:30 (UTC+1)/09:30 PM (UTC+1)
+
+    - Coming soon: New slots for our Snapchat (for iOS) account creation service.
+    
+      - We're currently extending the server capacities to offer further slots of the famous Snapchat for iOS account creation service (established in July 2024).
+
+        The availability will be announced at out newsletter. Please sign up at the following URL:
+
+        ![image](https://github.com/user-attachments/assets/ca85d333-1079-4b67-9746-40ca0e11e0e7)
+
+        If you can't access the newsletter sign up URL above, please disable your proxy, VPN, server, Tor exit node etc. in your browser. The newsletter provider GetResponse checks the traffic quality.
+        
   - January 23rd, 2025, 23:07 (UTC+1)/11:07 PM (UTC+1)
 
     - New! Support of ***Snapchat 13.24.0.37 for iOS*** (current release, just released 2 hours ago)
